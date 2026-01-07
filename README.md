@@ -30,8 +30,7 @@ After deployment, navigate to the web app URL to access the Zispire platform. Fo
 ## Contributing
 We welcome contributions to our project. Please read [CONTRIBUTING.md](link-to-contributing-file) for details on our code of conduct and the process for submitting pull requests.
 
-## Versioning
-For the versions available, see the [tags on this repository](link-to-tags).
+
 
 <!-- ## Authors
 - **Your Name** - *Initial work* - [YourGitHubProfile](link-to-profile) -->
